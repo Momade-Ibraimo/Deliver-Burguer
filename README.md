@@ -1,8 +1,12 @@
-```markdow
+```markdown
 # Deliver Burguer 🍔
 
 Aplicação web de delivery de hamburguer desenvolvida com React e Vite.
 Possui autenticação com JWT, área administrativa completa e carrinho de compras.
+
+## 🔗 Acesse o app
+
+👉 [momade-ibraimo.github.io/Deliver-Burguer](https://momade-ibraimo.github.io/Deliver-Burguer/login)
 
 ## Funcionalidades
 
