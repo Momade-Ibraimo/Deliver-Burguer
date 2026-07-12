@@ -1,4 +1,4 @@
-```markdown
+
 # Deliver Burguer 🍔
 
 Aplicação web de delivery de hamburguer desenvolvida com React e Vite.
