@@ -89,4 +89,3 @@ src/
 | /produtos | Privado | Listagem de produtos |
 | /carrinho | Privado | Carrinho de compras |
 | /admin/* | Admin | Painel administrativo |
-```
