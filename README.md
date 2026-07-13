@@ -4,7 +4,7 @@
 Aplicação web de delivery de hamburguer desenvolvida com React e Vite.
 Possui autenticação com JWT, área administrativa completa e carrinho de compras.
 
-##  Repositórios do Projeto
+## 🔗 Repositórios do Projeto
 
 > |  | Link |
 > |---|---|
