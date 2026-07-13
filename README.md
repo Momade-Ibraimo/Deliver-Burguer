@@ -9,7 +9,7 @@ Possui autenticação com JWT, área administrativa completa e carrinho de compr
 > |  | Link |
 > |---|---|
 > |  **Backend** | [deliver-burguer](https://github.com/Momade-Ibraimo/Deliver-Burguer-Backend) |
-> |  **Frontend** | [deliver-burguer](https://momade-ibraimo.github.io/Deliver-Burguer/login) |
+> |  **Frontend (Acesse o app)** | [deliver-burguer](https://momade-ibraimo.github.io/Deliver-Burguer/login) |
 
 
 
