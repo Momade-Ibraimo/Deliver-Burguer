@@ -10,6 +10,7 @@ Possui autenticação com JWT, área administrativa completa e carrinho de compr
 > |  **Frontend** | [deliver-burguer](https://momade-ibraimo.github.io/Deliver-Burguer/login) |
 
 
+
 ## Funcionalidades
 
 - Autenticação e cadastro de usuários com JWT
